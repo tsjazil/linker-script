@@ -1,5 +1,5 @@
 #!/bin/sh
 sudo cp linker /usr/local/bin 
 sudo chmod +x /usr/local/bin/linker
-printf'\n'
+printf '\n'
 echo "Thanks For Using Linker"
