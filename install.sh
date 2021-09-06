@@ -1,6 +1,6 @@
 #!/bin/sh
-sudo cp install.sh /usr/local/bin 
+sudo cp linker /usr/local/bin 
 cd /usr/local/bin 
 chmod +x linker
 printf'\n'
-echo "\e[0;32mThanks For Using Linker"
+echo "Thanks For Using Linker"
