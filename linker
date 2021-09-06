@@ -1,0 +1,8 @@
+#!/bin/bash
+
+file=$(printf '' | dmenu -i -p "Enter filename")
+dir=$(find -type f -iname "$file" | dmenu -i -p "select" -l 10 )
+dirc=$(echo $dir | cut -c 2-)
+url=$(curl -F "file=@$HOME$dirc" 0x0.st)
+echo $url | xclip -selection c
+notify-send "Link on Clipboard"
