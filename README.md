@@ -20,7 +20,7 @@ cd linker-script && chmod +x install.sh && ./install.sh
 ```
 🌀 Working 
 --
-Launch `dmenu` then search for linker  Type your required file with format in prompt <br>
+Launch `dmenu` then search for `linker`  Type your required file with format in prompt <br>
 Then files with the name will be available then select your file from list <br>
 Link of your file will be availble in your clipboard <br>
 
