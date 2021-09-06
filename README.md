@@ -1,4 +1,4 @@
-# 🌟 Linker Shell Script
+## 🌟 Linker Shell Script
 
 #### Make your file into link faster & quicker ####
 📎 Requirements
