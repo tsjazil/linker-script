@@ -1,6 +1,6 @@
 ## 🌟 Linker Shell Script
 
-Make your file into link that can be Shared faster & quicker 
+Make your file into link that can be Shared faster & quicker usind **dmenu**
 
 📎 Requirements
 --
