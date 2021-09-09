@@ -25,6 +25,6 @@ Launch `dmenu` then search for `linker`  Type your required file with format in 
 Then files with the name will be available then select your file from list <br>
 Link of your file will be availble in your clipboard <br>
 
-![demo](https://raw.githubusercontent.com/tsjazil/linker-script/master/assets/arch.GIF)
+![demo](https://raw.githubusercontent.com/tsjazil/linker-script/master/assets/linker.gif)
 
 NB: Type complete file name and format eg `img.png`
